@@ -1,4 +1,4 @@
-<img width="904" height="1148" alt="image" src="https://github.com/user-attachments/assets/07f7d11e-05d6-4d16-a48c-89c5a7b4c9bb" /># 📈 Stock Price Prediction System
+# 📈 Stock Price Prediction System
 
 ## 🚀 Overview
 The prediction of stock market prices has always been a topic of significant interest due to its potential financial benefits and the complexity involved in understanding market behavior. Stock prices are influenced by a wide range of factors, including company performance, investor sentiment, economic indicators, and global events. Traditional statistical methods often fail to capture the nonlinear and dynamic nature of stock price movements. Therefore, this project aims to develop an intelligent stock price prediction system using advanced machine learning techniques.
@@ -15,6 +15,7 @@ The proposed system collects and analyzes historical stock market data, includin
 
 
 ## 🔄 Approach
+<img width="904" height="1148" alt="image" src="https://github.com/user-attachments/assets/07f7d11e-05d6-4d16-a48c-89c5a7b4c9bb" /># 📈 Stock 
 
 1. **Data Collection**  
    Gather historical stock data (Open, Close, High, Low, Volume) from sources like Yahoo Finance.
